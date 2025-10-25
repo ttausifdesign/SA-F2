@@ -30,13 +30,6 @@ header {
     padding: 1rem 0;
 }
 
-.header-transparent {
-    background: rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(10px);
-    color: black;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-}
-
 .header-solid {
     background: rgba(255, 255, 255, 0.95);
     backdrop-filter: blur(10px);
@@ -403,4 +396,5 @@ main h1 {
     .container {
         padding: 0 15px;
     }
+
 }
